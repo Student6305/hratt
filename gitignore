@@ -1,0 +1,31 @@
+
+# Power BI temporary and backup files
+*.tmp
+*.bak
+*.pbix.autosave
+~$*
+
+# SQL Server temporary files
+*.mdf
+*.ldf
+*.ndf
+
+# Python / Jupyter temporary files
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Windows temporary files
+Thumbs.db
+Desktop.ini
+*.lnk
+
+# VS Code workspace settings
+.vscode/
+
+# Operating system files
+.DS_Store
+
+# Personal or sensitive files
+.env
+.env.*
